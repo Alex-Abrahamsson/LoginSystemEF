@@ -43,9 +43,9 @@
                 <LinearGradientBrush StartPoint="0,0" EndPoint="0,1" >
                     <GradientStopCollection>
                         <GradientStop Color="white" Offset="0.1"/>
-                        <GradientStop Color="LightGray" Offset="0.3"/>
+                        <GradientStop Color="LightGray" Offset="0.2"/>
                         <GradientStop Color="Gray" Offset="0.5"/>
-                        <GradientStop Color="LightGray" Offset="0.7"/>
+                        <GradientStop Color="LightGray" Offset="0.8"/>
                         <GradientStop Color="white" Offset="0.9"/>
                     </GradientStopCollection>
                 </LinearGradientBrush>
